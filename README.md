@@ -19,11 +19,11 @@ script.js is responsible for the introduction of main functions of initializing 
 <li>SaveSchedule() function;</li>
 <li>UpdateCalendarTasks() function;</li>
 
-The URL of the deployed application.
-https://hebexu.github.io/workdayschedule/
+<p>The URL of the deployed application.
+https://hebexu.github.io/workdayschedule/</p>
 
-The URL of the GitHub repository.
-https://github.com/hebexu/workdayschedule
+<p>The URL of the GitHub repository.
+https://github.com/hebexu/workdayschedule</p>
 
 Here is the screeshot of SaveTextToLocalStorage:
 ![SaveTextToLocalStorage](https://github.com/hebexu/workdayschedule/blob/master/SaveTextToLocalStorage.png)
