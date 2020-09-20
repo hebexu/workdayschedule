@@ -20,4 +20,5 @@ https://hebexu.github.io/workdayschedule/
 The URL of the GitHub repository.
 https://github.com/hebexu/workdayschedule
 
+Here is the screeshot of SaveTextToLocalStorage:
 ![SaveTextToLocalStorage](https://github.com/hebexu/workdayschedule/blob/master/SaveTextToLocalStorage.png)
