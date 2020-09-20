@@ -9,10 +9,10 @@ The project includes 3 source files: index.html is responsible for user interfac
 3. Workday schedule implementation introduction
 script.js is responsible for the introduction of main functions of initializing the local storage, updating calendar tasks and saving to local storage. Below main functions have been adopted:
 
-InitializeLocalStorage() function
-SaveToLocalStorage() function
-SaveSchedule() function
-UpdateCalendarTasks() function
+InitializeLocalStorage() function;
+SaveToLocalStorage() function;
+SaveSchedule() function;
+UpdateCalendarTasks() function;
 
 The URL of the deployed application.
 https://hebexu.github.io/workdayschedule/
@@ -20,4 +20,4 @@ https://hebexu.github.io/workdayschedule/
 The URL of the GitHub repository.
 https://github.com/hebexu/workdayschedule
 
-![img](https://github.com/hebexu/workdayschedule/blob/master/READMEIMG/SaveTextToLocalStorage.png)
+![SaveTextToLocalStorage](https://github.com/hebexu/workdayschedule/blob/master/SaveTextToLocalStorage.png)
