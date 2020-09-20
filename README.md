@@ -26,4 +26,4 @@ https://hebexu.github.io/workdayschedule/</p>
 https://github.com/hebexu/workdayschedule</p>
 
 Here is the screeshot of SaveTextToLocalStorage:
-![SaveTextToLocalStorage](https://github.com/hebexu/workdayschedule/blob/master/SaveTextToLocalStorage.png)
+![SaveTextToLocalStorage](https://github.com/hebexu/workdayschedule/blob/master/assets/SaveTextToLocalStorage.png)
