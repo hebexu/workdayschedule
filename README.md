@@ -1,6 +1,6 @@
-<header>Workday Schedule</header>
+<h1>Workday Schedule</h1>
 
-<h1>1. Project Introduction:</h1>
+1. Project Introduction:
 
 This page will help users to create daily work schedule, they can write down and modify their schedule details between working hours from 8am to 5pm. All text details could be saved to local storage after clicking the "tick" button.
 The date of development: 19th Sep, 2020.
@@ -14,10 +14,10 @@ The project includes 3 source files: index.html is responsible for user interfac
 
 script.js is responsible for the introduction of main functions of initializing the local storage, updating calendar tasks and saving to local storage. Below main functions have been adopted:
 
-InitializeLocalStorage() function;
-SaveToLocalStorage() function;
-SaveSchedule() function;
-UpdateCalendarTasks() function;
+<li>InitializeLocalStorage() function;</li>
+<li>SaveToLocalStorage() function;</li>
+<li>SaveSchedule() function;</li>
+<li>UpdateCalendarTasks() function;</li>
 
 The URL of the deployed application.
 https://hebexu.github.io/workdayschedule/
