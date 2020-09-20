@@ -14,10 +14,10 @@ The project includes 3 source files: index.html is responsible for user interfac
 
 script.js is responsible for the introduction of main functions of initializing the local storage, updating calendar tasks and saving to local storage. Below main functions have been adopted:
 
-<li>InitializeLocalStorage() function;</li>
+<p><li>InitializeLocalStorage() function;</li>
 <li>SaveToLocalStorage() function;</li>
 <li>SaveSchedule() function;</li>
-<li>UpdateCalendarTasks() function;</li>
+<li>UpdateCalendarTasks() function;</li></p>
 
 <p>The URL of the deployed application.
 https://hebexu.github.io/workdayschedule/</p>
