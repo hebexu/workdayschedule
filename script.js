@@ -31,7 +31,7 @@ function UpdateNowTime()
     $('#date-today h6').text(moment().format('dddd') + ", " + moment().format('MMMM Do YYYY, h:mm:ss a'));
 }
 
-  // update css style during different time according to current time
+  // update css style according to current time
 var counter = 1;
 for(const property in workDay) {
   var textEntry = "#text-entry" + counter;
@@ -75,7 +75,6 @@ function hourNumberFromHourString(hourString) {
   }
 }
 
-  // Return saved text from localstorage
 function loadCorrectDataset() {
   result = localStorage.getItem('workDay')
   return (result ? result : workDay);
